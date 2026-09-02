@@ -8,14 +8,14 @@
 **GitHub Stats**
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=batteryouo&show_icons=true&theme=dark&hide_border=true" width="30%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=batteryouo&show_icons=true&theme=dark&hide_border=true" width="50%" />
 </p>
 
 **Top Language**
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=batteryouo&theme=dark&hide_border=true" width="20%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=batteryouo&theme=dark&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=batteryouo&style=flat&color=grey" alt="visitor count" width="5%"/>
+  <img src="https://komarev.com/ghpvc/?username=batteryouo&style=flat&color=grey" alt="visitor count" width="10%"/>
 </p>
